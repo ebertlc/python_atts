@@ -1,0 +1,4 @@
+matricula;nome;curso
+; 202008279879;Eber Lucas C Elias;ADS
+; 202202141321;Jose carlos;ADS
+matricula;nome;curso
